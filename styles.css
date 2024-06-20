@@ -1,0 +1,22 @@
+.card {
+    height: 100%;
+}
+
+.card-body {
+    align-content: end;
+}
+
+img.hero {
+    height: 200px;
+}
+img.album {
+    background-color:rgb(85, 89, 92) ;
+    height: 65%;
+    object-fit:contain;
+}
+
+p.credit {
+    display: flex;
+    justify-content: center;
+    font-size: 8px;
+}
